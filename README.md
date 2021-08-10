@@ -1,1 +1,1 @@
-# Hand-gesture-recongiton-for-recongised-faces
+# Hand-gesture-recogniton-for-recognised-faces
